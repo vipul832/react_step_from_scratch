@@ -214,4 +214,6 @@ Setup you React App from scratch without using  ``` create-react-app ``` so, We 
   npm install 
   npm run dev
   ```
- > **Note** Refer document for more Detail  [Vite Documentation](https://vitejs.dev/guide/).
+ > **Note** Refer document for more Detail  [Vite Documentation](https://vitejs.dev/guide/).<br>
+ If you want to compare Between CRA(create-react-app) and Vite refer this blog [blog_link](https://javascript.plainenglish.io/create-react-app-cra-vs-vite-migrate-your-cra-project-to-vite-compare-the-result-2a193b849e45)
+ 
