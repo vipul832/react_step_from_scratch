@@ -207,7 +207,7 @@ Setup you React App from scratch without using  ``` create-react-app ``` so, We 
   ```
   npm create vite@latest my-vue-app -- --template react-ts
   ```
-  > **Note** Specified you application name instead of ```my-vue-app```
+  > **Note** Specified you application name instead of ```my-react-app```
 
 - **Step 5:** After runing above code it will create folder as you application name open that folder using vs code and write following command one by one:
   ```
