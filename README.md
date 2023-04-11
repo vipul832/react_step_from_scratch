@@ -205,7 +205,7 @@ Setup you React App from scratch without using  ``` create-react-app ``` so, We 
     > **Note** If you don't know how to open Command line in vs code use Key ```ctrl + ` ```
 - **Step 4:** To setup react typescript using vite use following command:
   ```
-  npm create vite@latest my-vue-app -- --template react-ts
+  npm create vite@latest my-react-app -- --template react-ts
   ```
   > **Note** Specified you application name instead of ```my-react-app```
 
